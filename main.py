@@ -20,3 +20,16 @@ def calculate_average(sales):
 
 print(calculate_total(sales))
 print(calculate_average(sales))
+
+
+
+
+
+
+new_feature=1333232
+def sub(a,b):
+    return a-b
+print(sub(23,22))
+print(sub(new_feature,222))
+
+
